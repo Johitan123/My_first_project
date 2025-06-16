@@ -1,0 +1,17 @@
+
+ 
+
+ 
+persona = {
+    "nombre": "midudev",
+    "edad": 25,
+    "es_estudiante": True,
+    "calificaciones": [7, 8, 9],
+    "socials": {
+        "twitter": "@dario",
+        "insta": "jhd",
+        "facebook": "midude"
+    }
+}
+
+print(persona["nombre"])
